@@ -1,3 +1,7 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-HarvardWang/branch/main/graph/badge.svg?token=ECCYSZ5N4N)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-HarvardWang)
+
+
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
